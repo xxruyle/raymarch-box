@@ -1,0 +1,36 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "--std=c++1z",
+      "-Wall",
+      "-g",
+      "-I",
+      "./include",
+      "-o",
+      "./bin/main",
+      "src/main.cpp"
+    ],
+    "directory": "/home/xxruyle/dev/projects/learnopengl/raymarch-box",
+    "file": "/home/xxruyle/dev/projects/learnopengl/raymarch-box/src/main.cpp",
+    "output": "/home/xxruyle/dev/projects/learnopengl/raymarch-box/bin/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "--std=c++1z",
+      "-Wall",
+      "-g",
+      "-I",
+      "./include",
+      "-o",
+      "./bin/main",
+      "src/glad.c"
+    ],
+    "directory": "/home/xxruyle/dev/projects/learnopengl/raymarch-box",
+    "file": "/home/xxruyle/dev/projects/learnopengl/raymarch-box/src/glad.c",
+    "output": "/home/xxruyle/dev/projects/learnopengl/raymarch-box/bin/main"
+  }
+]
